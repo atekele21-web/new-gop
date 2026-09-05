@@ -1,0 +1,7 @@
+{
+  "name": "TelePlus",
+  "description": "Official EthioTelecom premier mobile gaming portal with skill-based games, rankings, and instant play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
